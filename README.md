@@ -1,4 +1,3 @@
-# Sale-Dashboard
 # 📊 Sales Executive Dashboard (Power BI)
 
 ## 📌 Project Overview
