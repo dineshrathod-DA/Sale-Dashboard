@@ -1,4 +1,3 @@
-# Sale-Dashboard
 # 📊 Sales Executive Dashboard (Power BI)
 
 ## 📌 Project Overview
@@ -84,7 +83,8 @@ The dashboard provides key business insights such as total sales, profit, transa
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1919" height="1023" alt="Screenshot 2026-04-04 115544" src="https://github.com/user-attachments/assets/e3cf851e-2f2c-4613-91da-b927331299dd" />
+
 
 ---
 
